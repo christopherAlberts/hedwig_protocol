@@ -1,8 +1,6 @@
 # hedwig_protocol()
 
-A function allowing you to either send files to a folder or to take files from a folder.
-
-![](Images/hedwigprotocol.png)
+![](hedwigprotocol.png)
 
 The hedwig_protocol() function allows you to either send files to a folder or to take files from a folder. The in-code comments will give you a more thorough exsplenation: 
 
