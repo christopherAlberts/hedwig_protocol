@@ -72,3 +72,5 @@ def hedwig_protocol(listen_or_take, file_name, take_this):
         fw.close()
 
 ```
+
+![](pythonpoweredlengthgif.gif)
