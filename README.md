@@ -2,7 +2,7 @@
 
 ![](hedwigprotocol.png)
 
-The hedwig_protocol() function is a Python3 function which allows you to either send files to a folder or to take files from a folder. The in-code comments will give you a more thorough exsplenation: 
+The hedwig_protocol() function is a Python3 function which allows you to either send files to a folder or to take files from a folder. The in-code comments will give you a more thorough explanation: 
 
 ```python3
 import os
